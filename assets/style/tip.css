@@ -4,7 +4,7 @@
     font-size: 1.4em;
     font-family: 'Charm';
     position: absolute; /* Use relative positioning if adjustments are needed */
-    top: -350px;
+    top: -345px;
     left: 100px; /* Adjusts horizontal position relative to its containing element */
     width: 700px; /* Set a fixed width for the container */
     background-color: transparent; /* Makes the background transparent */
